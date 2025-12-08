@@ -1,4 +1,4 @@
-# GENOTECTOR - Embryo CNV detection
+# GENA-TECTOR - Embryo CNV detection
 
 # FASTQ to BigWig pipeline (data preprocessing)
 
