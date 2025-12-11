@@ -1,7 +1,7 @@
 # GENA-TECTOR - Embryo CNV detection
 
 
-## The preprint of the article can be found: https://www.researchsquare.com/article/rs-8269410/v1
+### The preprint of the article can be found: https://www.researchsquare.com/article/rs-8269410/v1
 
 # FASTQ to BigWig pipeline (data preprocessing)
 
